@@ -1,6 +1,20 @@
-## Hi there! 👋 I'm Finn
+<h1 align="center">Hi there! 👋 I'm Finn</h1>
 
-I'm a front-end web developer with a passion for crafting clean and functional user interfaces. Currently diving deeper into Laravel, TailwindCSS, and everything modern web.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=38BDF8&width=435&lines=Front-End+Developer;Tech+Enthusiast;Code.+Commit.+Repeat." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+- 🧠 I'm currently a 4th-semester **Informatics student** from Madura, Indonesia  
+- 🎯 Passionate about crafting responsive & clean front-end interfaces  
+- 🔍 Learning Laravel deeply while mixing in Tailwind + Node.js  
+- 🛠️ Side project: **SiMantep** - Sistem Informasi Manajemen PKL  
 
 ---
 
@@ -17,45 +31,27 @@ I'm a front-end web developer with a passion for crafting clean and functional u
 
 ---
 
-### 🌱 Currently Learning
-- Advanced component structure in Laravel + Blade
-- Vue.js basics for interactive UI
-- RESTful API integration with Laravel
-
----
-
-### 🔥 Featured Project: **SiMantep**
-Sistem Informasi Manajemen Praktik Kerja Lapangan yang saya kembangkan bersama tim. Project ini dibangun menggunakan Laravel dan Tailwind, dengan fitur manajemen user multi-role, validasi data, dan tracking progres PKL mahasiswa.
-
-🧪 *Status:* Dalam pengembangan  
-📁 *Stack:* Laravel 12, TailwindCSS, MySQL  
-🔗 *Link (coming soon...)*
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vyinnf&show_icons=true&theme=tokyonight" alt="Bustanul's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyinnf&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vyinnf&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyinnf&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-### 📫 Get in Touch
-Feel free to reach out or say hi 👇  
-📧 **moh.bustanul.arifin12@gmail.com**
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:moh.bustanul.arifin12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- Bisa tambah link linkedin kalau ada -->
+</p>
 
 ---
 
 ### ⚡ Fun Fact
-Kalau udah ngoding, bisa lupa waktu. Tapi jangan suruh desain logo, itu musuh alami 😅
+> Kalau udah ngoding, bisa lupa waktu. Tapi jangan suruh desain logo, itu musuh alami 😅
 
 ---
-
-> *"Keep it simple, keep it clean."*
-
----
-
-![Glide animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=38BDF8&width=435&lines=Front-End+Developer;Tech+Enthusiast;Code.+Commit.+Repeat.)
