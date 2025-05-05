@@ -1,13 +1,19 @@
-## Hi there! 👋 I'm Bustanul Arifin
+## Hi there! 👋 I'm Finn
 
 I'm a front-end web developer with a passion for crafting clean and functional user interfaces. Currently diving deeper into Laravel, TailwindCSS, and everything modern web.
 
 ---
 
 ### 🚀 Tech Stack
-- 🌐 Front-End: **TailwindCSS**, HTML, JavaScript
-- 🛠️ Back-End: **Laravel**, **Node.js**
-- 🗄️ Database: **MySQL**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
 ---
 
@@ -49,3 +55,7 @@ Kalau udah ngoding, bisa lupa waktu. Tapi jangan suruh desain logo, itu musuh al
 ---
 
 > *"Keep it simple, keep it clean."*
+
+---
+
+![Glide animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=38BDF8&width=435&lines=Front-End+Developer;Tech+Enthusiast;Code.+Commit.+Repeat.)
